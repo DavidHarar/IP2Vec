@@ -11,7 +11,7 @@ In the following two figures are the context creation for `Word2Vec` and for `IP
 
 ![Word2Vec Observations Generation, source: [Mikolov et al. (2013)](https://arxiv.org/abs/1301.3781)](https://i0.wp.com/datascientest.com/wp-content/uploads/2020/09/Capture-de%CC%81cran-2020-09-18-a%CC%80-09.27.50.png?w=842&ssl=1)
 
-![IP2Vec Observations Generation](https://github.com/DavidHarar/Siamese-Networks-for-name-nickname-similarity/blob/main/images/2dcnn.jpg?raw=true)
+![IP2Vec Observations Generation](https://github.com/DavidHarar/IP2Vec/blob/main/images/Examles_generation.png?raw=true)
 
 
 Since every sentence has a limited number of words, each sentence produces only a handful of meaningful gradients. Consequentially, updating all the weights leads to sparse updation and a very slow training time.  
